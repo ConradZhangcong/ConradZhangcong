@@ -1,0 +1,14 @@
+# ide
+.vscode
+.idea
+.DS_Store
+
+# dependency
+/node_modules
+
+# dist
+/dist
+/lib
+
+# temp file
+/temp
